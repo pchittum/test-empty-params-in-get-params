@@ -1,0 +1,7 @@
+<apex:page controller="TestEmptyParamsInGetParams">
+    <apex:pageMessages/>
+<!-- Begin Default Content REMOVE THIS -->
+<h1>Testing for params</h1>
+{!paramsTestOutput}
+<!-- End Default Content REMOVE THIS -->
+</apex:page>
